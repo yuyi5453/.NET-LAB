@@ -1,0 +1,12 @@
+E:\WebApplication1\WebBookShop\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+E:\WebApplication1\WebBookShop\DAL\bin\Debug\netstandard2.0\DAL.dll
+E:\WebApplication1\WebBookShop\DAL\bin\Debug\netstandard2.0\DAL.pdb
+E:\WebApplication1\WebBookShop\DAL\bin\Debug\netstandard2.0\Models.dll
+E:\WebApplication1\WebBookShop\DAL\bin\Debug\netstandard2.0\Models.pdb
+E:\WebApplication1\WebBookShop\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+E:\WebApplication1\WebBookShop\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+E:\WebApplication1\WebBookShop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+E:\WebApplication1\WebBookShop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+E:\WebApplication1\WebBookShop\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+E:\WebApplication1\WebBookShop\DAL\obj\Debug\netstandard2.0\DAL.dll
+E:\WebApplication1\WebBookShop\DAL\obj\Debug\netstandard2.0\DAL.pdb
